@@ -6,4 +6,4 @@
 - CSS
 
 ### Layout - YouTube
-<img src="./design/layout-youtube.png" alt="layout youtube">
+<img src="./design/layout-youtube-dv.png" alt="layout youtube">
